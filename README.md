@@ -1,16 +1,28 @@
-## Hi there 👋
+<img src="https://i.ibb.co.com/cc814qDG/Frieren.jpg" 
+     alt="Frieren" 
+     width="342" 
+     align="left">
 
-<!--
-**LinneaIX/LinneaIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```zig
+❯  cat about_me.txt
 
-Here are some ideas to get you started:
+Username  : LinneaIX
+Class     : Student
+Status    : Compiling...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+          C++ | Python | Zig
+
+Tools:
+          Git | VSCode | ArchWSL
+
+Interests:
+          > Computer Science
+          > Artificial Intelligence
+          > Algorithms
+
+Achievement:
+          [✓] Opened VSCode
+          [✘] Wrote Code
+          [✓] Closed VSCode
+          [✓] Reopened VSCode
