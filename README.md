@@ -1,8 +1,3 @@
-<img src="https://i.ibb.co.com/cc814qDG/Frieren.jpg" 
-     alt="Frieren" 
-     width="342" 
-     align="left">
-
 ```zig
 ❯  cat about_me.txt
 
